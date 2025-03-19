@@ -1,0 +1,12 @@
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll
