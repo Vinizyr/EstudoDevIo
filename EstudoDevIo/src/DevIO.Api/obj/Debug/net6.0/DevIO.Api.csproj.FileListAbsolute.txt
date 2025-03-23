@@ -67,3 +67,17 @@ C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\refint\DevIO.Api.d
 C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.pdb
 C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.genruntimeconfig.cache
 C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\ref\DevIO.Api.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.staticwebassets.endpoints.json
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.sourcelink.json
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\EstudoDevIo\EstudoDevIo\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cs

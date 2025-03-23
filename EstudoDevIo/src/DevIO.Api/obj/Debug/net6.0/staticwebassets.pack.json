@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DevIO.Api.bundle.scp.css",
-      "PackagePath": "staticwebassets\\DevIO.Api.bundle.scp.css"
+      "PackagePath": "staticwebassets\\DevIO.Api.52zdmd8inu.bundle.scp.css"
     },
     {
       "Id": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssets.props",

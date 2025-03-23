@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\dev\\estudodevio\\estudodevio\\src\\devio.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\dev\\estudodevio\\estudodevio\\src\\devio.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\dev\\estudodevio\\estudodevio\\src\\devio.api\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\dev\\estudodevio\\estudodevio\\src\\devio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\dev\\estudodevio\\estudodevio\\src\\devio.api\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\dev\\estudodevio\\estudodevio\\src\\devio.api\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\dev\\estudodevio\\estudodevio\\src\\devio.api\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\dev\\estudodevio\\estudodevio\\src\\devio.api\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C8D46D-60BC-45B9-90AD-FF6E33393EA8}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +34,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainController.cs",
-              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Controllers\\MainController.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\MainController.cs",
-              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Controllers\\MainController.cs",
-              "RelativeToolTip": "src\\DevIO.Api\\Controllers\\MainController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:31:01.787Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProdutoDto.cs",
-              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\DTOs\\ProdutoDto.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Api\\DTOs\\ProdutoDto.cs",
-              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\DTOs\\ProdutoDto.cs",
-              "RelativeToolTip": "src\\DevIO.Api\\DTOs\\ProdutoDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:24:12.469Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EnderecoDto.cs",
-              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\DTOs\\EnderecoDto.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Api\\DTOs\\EnderecoDto.cs",
-              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\DTOs\\EnderecoDto.cs",
-              "RelativeToolTip": "src\\DevIO.Api\\DTOs\\EnderecoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:15:52.1Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FornecedorDto.cs",
-              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\DTOs\\FornecedorDto.cs",
-              "RelativeDocumentMoniker": "src\\DevIO.Api\\DTOs\\FornecedorDto.cs",
-              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\DTOs\\FornecedorDto.cs",
-              "RelativeToolTip": "src\\DevIO.Api\\DTOs\\FornecedorDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:07:08.607Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -89,8 +69,77 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Configuration\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Configuration\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Configuration\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Configuration\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:33:45.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Program.cs",
+              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Program.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:37:55.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FornecedoresController.cs",
+              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
+              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwF4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:11:46.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Configuration\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Configuration\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Configuration\\AutoMapperConfig.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Configuration\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:05:27.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\Controllers\\MainController.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Controllers\\MainController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:53:04.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FornecedorDto.cs",
+              "DocumentMoniker": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\DTOs\\FornecedorDto.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\DTOs\\FornecedorDto.cs",
+              "ToolTip": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Api\\DTOs\\FornecedorDto.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\DTOs\\FornecedorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:07:08.607Z"
             }
           ]
         }

@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2/ZI9XT1G608yj5gujnOfS2uDUpZdqEOItXqqG+PNq1zYfHuvyOE6TlV5s8oL7W0rGae74kTC5TBvlM7NelSGQ==",
+  "dgSpecHash": "OW5WJh9jsn0=",
   "success": true,
   "projectFilePath": "C:\\Dev\\EstudoDevIo\\EstudoDevIo\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marcosvinicios\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
-    "C:\\Users\\marcosvinicios\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\marcosvinicios\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\marcosvinicios\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+    "C:\\Users\\viniz\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
   ],
   "logs": []
 }
